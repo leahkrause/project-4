@@ -8,3 +8,7 @@ In recent years, heartstroke has emerged as a major health concern worldwide. Th
 For our project, we have chosen to utilize the official website of the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/brfss/annual_data/annual_2021.html) as the primary source of our data. We obtained a SAS file from the CDC website, and we utilized Python for data cleaning and the creation of simplified datasets that are specifically tailored to our investigation.
 
 One key aspect of our research focuses on the utilization of super reduced datasets, which consist of a limited number of variables. These datasets provide us with valuable insights into heart stroke by examining factors such as cigarette usage, work status, and gender. By studying the relationships between these variables and the incidence of heart stroke, we aim to gain a better understanding of how they interact with cardiovascular health.
+
+## Machine Learning - Correlation and Findings
+
+## Overview
