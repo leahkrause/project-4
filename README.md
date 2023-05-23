@@ -15,7 +15,7 @@ One key aspect of our research focuses on the utilization of super reduced datas
 
 ## Design an Interactive DashBoard
 We used Tableau to design and create our interactive dashboard. Dimensions are selected according to their correlation with the target variable(Heart Disease). Based on these particular parameters' values, the user can apply a corresponding filter. As shown in the following figures, we designed two separate pages for our dashboard. 
-The Main Page includes all the demographic characteristics of data including *age, gender, work status, marital status, and education*. Some of the other features which correspond to health conditions like *Physical/Mental Health, Routine checkup, Cholesterol, Diabetes,..* are also available as a different set of filters. In the Main Page, the user can compare two groups which are tagged as Having Heart Disease/Not Having Heart Disease. 
+The Main Page includes demographic characteristics of data including *age, gender, work status, marital status, and education*. Some of the other features which correspond to health conditions like *Physical/Mental Health, Routine checkup, Cholesterol, Diabetes,..* are also available as a different set of filters. In the Main Page, the user can compare two groups which are tagged as Having Heart Disease/Not Having Heart Disease. 
 
 
 ![Main Page](images/Heart_disease_dashboard.png)
