@@ -25,3 +25,12 @@ The Second Page includes more detailed information of people who are having hear
 The user can switch between the Main and Second page using the provided buttons at the top of the page.
 
 ![Main Page](images/Heart_disease_group.png)
+
+## Focus on Specific Behavioral Factors
+We also used Tableau to visualize the impact that certain behavioral factors have on heart disease. The published Tableau story on Substance Use highlights key findings on the affects of Alcohol, Tobacco/E-Cig, and Marijuana. Non-alcohol drinkers have a slightly higher risk than alcohol drinkers to suffer from heart disease, while males over the age of 60 who are current or former smokers are roughly 2x more likely than females to be at risk for heart disease. 
+
+https://public.tableau.com/app/profile/lucia.tablas/viz/HeartDisease_16844577019490/Story1?publish=yes
+
+![Alc Dashboard](https://github.com/leahkrause/project-4/assets/116695697/6565cd5d-9904-4a21-bda9-ed3d07ffc455)
+![Tobacco   E-Cigs](https://github.com/leahkrause/project-4/assets/116695697/1303e7a4-46da-4d86-a627-146b8d70c91b)
+![MJ Dashboard](https://github.com/leahkrause/project-4/assets/116695697/063a874d-23f5-4e0c-a10f-7ebea9c964c4)
