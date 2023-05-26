@@ -9,10 +9,6 @@ For our project, we have chosen to utilize the official website of the [Centers 
 
 One key aspect of our research focuses on the utilization of super reduced datasets, which consist of a limited number of variables. These datasets provide us with valuable insights into heart disease by examining factors such as cigarette usage, work status, and gender. By studying the relationships between these variables and the incidence of heart disease, we aim to gain a better understanding of how they interact with cardiovascular health.
 
-## Machine Learning - Correlation and Findings
-
-## Overview
-
 ## Design an Interactive DashBoard
 We used Tableau to design and create our interactive dashboard. Dimensions are selected according to their correlation with the target variable(Heart Disease). Based on these particular parameters' values, the user can apply a corresponding filter. As shown in the following figures, we designed two separate pages for our dashboard. 
 The Main Page includes demographic characteristics of data including *age, gender, work status, marital status, and education*. Some of the other features which correspond to health conditions like *Physical/Mental Health, Routine checkup, Cholesterol, Diabetes,..* are also available as a different set of filters. In the Main Page, the user can compare two groups which are tagged as Having Heart Disease/Not Having Heart Disease. 
@@ -34,3 +30,6 @@ https://public.tableau.com/app/profile/lucia.tablas/viz/HeartDisease_16844577019
 ![Alc Dashboard](https://github.com/leahkrause/project-4/assets/116695697/6565cd5d-9904-4a21-bda9-ed3d07ffc455)
 ![Tobacco   E-Cigs](https://github.com/leahkrause/project-4/assets/116695697/1303e7a4-46da-4d86-a627-146b8d70c91b)
 ![MJ Dashboard](https://github.com/leahkrause/project-4/assets/116695697/063a874d-23f5-4e0c-a10f-7ebea9c964c4)
+
+## Tableau Visualizations
+[Vivian's Tableau](https://public.tableau.com/app/profile/vivian.sun1505/viz/HeartStrokevsDepression/MentalHealthDays)
