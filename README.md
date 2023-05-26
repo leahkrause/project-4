@@ -34,7 +34,9 @@ https://public.tableau.com/app/profile/lucia.tablas/viz/HeartDisease_16844577019
 ## Focus on Specific Health Aspects
 We used Tableau, Pearson Correlation Coefficient, and Bagging Classifier to determine whether or not oral health had a significant impact on heart disease. For both oral health survey questions (last dental appointment and amount of teeth removed), little to no correlation was found. Using the Bagging Classifier, we found that our model's ability to predict heart disease was relatively high, sitting at 81%. This, along with external research, indicates that oral health is not a strong indicator of heart disease. Our Tableau graphs provide a visual representation of the lack of strong indicator in both questions. 
 
-<img width="358" alt="Screenshot 2023-05-25 at 7 49 38 PM" src="https://github.com/leahkrause/project-4/assets/119142624/80d6f1ae-5e95-4798-bf3c-dbb6564e3aef">
+![Screenshot 2023-05-25 at 7 51 22 PM](https://github.com/leahkrause/project-4/assets/119142624/d32f7285-90f1-4d93-bca8-b1fc2e6f771e)
+![Screenshot 2023-05-25 at 7 51 08 PM](https://github.com/leahkrause/project-4/assets/119142624/6ab44667-2085-4856-acf8-dd368ca1783f)
+
 
 
 
