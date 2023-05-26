@@ -37,6 +37,13 @@ We used Tableau, Pearson Correlation Coefficient, and Bagging Classifier to dete
 ![Scree![Screenshot 2023-05-25 at 7 53 10 PM](https://github.com/leahkrause/project-4/assets/119142624/c58e929c-4f81-4002-819d-0f50fe74ce7a)
 nshot 2023-05-25 at 7 51 22 PM](https://github.com/leahkrause/project-4/assets/119142624/d32f7285-90f1-4d93-bca8-b1fc2e6f771e)
 
+## Focus on Mental Health Aspects
+
+We utilized Tableau to analyze a survey question from the CDC surveys: "Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?" By visualizing the data and considering Depression as a factor, we observed a significant correlation between individuals who experienced stressful days and were diagnosed with depression, and their increased risk for heart disease. Further investigation within the main interactive Tableau dashboard revealed additional correlations between depression and heart disease, particularly among women diagnosed with depression and older age groups.
+
+![No_Depression](https://i.imgur.com/oo0M7Do.png)
+![Yes_Depression](https://i.imgur.com/wk2CuvP.png)
+
 
 
 
