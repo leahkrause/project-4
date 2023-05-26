@@ -45,6 +45,10 @@ We utilized Tableau to analyze a survey question from the CDC surveys: "Now thin
 ![Yes_Depression](https://i.imgur.com/wk2CuvP.png)
 
 
+## Focus on Machine Learnning and Feature Importance
+
+We applied a handful of different machine learning models on the data, which were LogisticRegression, RandomForest, GaussianNB, BaggingClassifer, and VotingClassifier. Applied those on our primary dataset, and after deciding that RandomForest gave us the best results, applied that to multiple other datasets to test their predictive abilities.
+![RandomForest_results](https://i.imgur.com/7dbneHh.png)
 
 
 ## Tableau Visualizations
