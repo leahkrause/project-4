@@ -46,8 +46,12 @@ We utilized Tableau to analyze a survey question from the CDC surveys: "Now thin
 
 
 ## Focus on Machine Learnning and Feature Importance
+There are lots of different datasets about heart disease, all of which have their own collection methodologies and bias. One of our approaches was using the CDC dataset and selecting a smaller set of features(around 24 features) . Next We dropped all null values and no answer items. Then we applied different classifiers. Finally we used a voting classifier to get the best(the highest probability) answer out of those classifiers. A Voting Classifier trains on an ensemble of numerous models and predicts an output (class) based on their highest probability of chosen class as the output.
 
-We applied a handful of different machine learning models on the data, which were LogisticRegression, RandomForest, GaussianNB, BaggingClassifer, and VotingClassifier. Applied those on our primary dataset, and after deciding that RandomForest gave us the best results, applied that to multiple other datasets to test their predictive abilities.
+![Classifiers](images/table.png)
+
+Next approach was running the RandomForestClassifer on our primary dataset, which was difficult initially as we had to fill a lot of null values to get a good model. To have a more accurate model, we utilized a K-neighbors imputation technique to fill those null values. After applying different models, RandomForest gave us the best results. We also applied RandomForest to multiple other heart disease datasets to test their predictive abilities.
+
 ![RandomForest_results](https://i.imgur.com/7dbneHh.png)
 
 
